@@ -1,1 +1,16 @@
+{
+"id" : 1,
+"summary" : "no redirection to the CoffeeBerry Facebook account via tapping on the icon Facebook",
+"severity" : "minor",
+"description" : "redirecting to the CoffeeBerry VK  account instead of Facebook by clicking on the Facebook icon", 
+"steps to reproduce ": ["open Coffee Minsk app", 
+"find  CoffeeBerry  coffee shops in the catalog",
+"open CoffeeBerry coffee shop's  info page",
+"tap on Facebook icon"],
+"reproducibility" : "always",
+"reproduced on" : "all devices",
+"actual result" : "user is redirected to the VK profile of coffee shop",
+"expected result" : "user is redirected to the Facebook profile of coffee shop"
+
+}
 
